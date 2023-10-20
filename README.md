@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @LilJuicyEthan
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning Python 3 and PowerShell
-- 💞️ I’m looking to collaborate on Python Gui's
 - 📫 How to reach me: bowenethan44@gmail.com
 
 <!---
